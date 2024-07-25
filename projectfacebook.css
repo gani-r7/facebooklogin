@@ -1,0 +1,151 @@
+*{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 85px;
+    background-color: #3b5989;
+}
+.logo{
+    width: 50%;
+    padding-top: 35px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.logotext{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logincontrols{
+    margin-left: 120px;
+    text-align: start;
+
+}
+.forgotten{
+    font-size: smaller;
+    
+}
+.buttontext{
+    background-color: #3b5989;
+    color: #fff;
+    height: 20px;
+    
+}
+.leftdiv{
+    width: 50%;
+    float: left;
+    margin-left: 50px;
+}
+.rightdiv{
+    width: 50%;
+    float: left;
+    padding: 0px 150px;
+}
+.leftdivpara{
+    color: #20385e;
+    margin-bottom: 10px;
+    font-size: 30px;
+    margin-top: 20px;
+
+
+}
+.body{
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.fbimgadd{
+    width: 90%;
+    
+
+}
+.paragraph{
+    font-size: 20px
+}
+.formname{
+    display: flex;
+
+}
+.formnamefirst{
+    width: 50%;
+
+}
+.formnamefirstinput{
+    width: 100%;
+    border-radius: 10px;
+    height: 45px;
+
+}
+.formnamesecond{
+    width: 50%;
+}
+.formnamesecondinput{
+    width: 100%;
+    border-radius: 10px;
+    height: 45px;
+}
+.mobileoremail{
+    padding-top: 20px;
+    width: 100%;
+}
+.mobileoremailinput{
+    width: 100%;
+    border-radius: 10px;
+    height: 45px;
+}
+.newpassword{
+    padding-top: 20px;
+    width: 100%;
+}
+.newpasswordinput{
+    width: 100%;
+    border-radius: 10px;
+    height: 45px;
+}
+.Birthday{
+    padding-top: 20px;
+}
+.maindiv{
+    width: 100%;
+    display: flex;
+}
+.dateofbirth{
+    width: 50%;
+}
+.comment{
+    width: 50%;
+    color: #3b5989;  
+    font-size: small;
+}
+.gender{
+    padding-top: 20px;
+    font-size: larger;
+}
+.Male{
+    margin-right: 10px;
+}
+.description{
+    font-size: small;
+}
+.signup{
+    margin-top: 20px;
+    font-weight: bolder;
+    font-size: larger;
+    color: #fff;
+    background-color: #159b15;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 50%;
+}
